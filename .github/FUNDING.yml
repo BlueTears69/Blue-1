@@ -7,7 +7,6 @@ jobs:
 
     steps:
 
-    # ...
 
     - uses: 'google-github-actions/auth@v2'
       with:
